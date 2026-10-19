@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hola, soy g100p
 
-<!--
-**g100p/g100p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador de software con interés en construir soluciones simples, mantenibles y orientadas a resultados.
 
-Here are some ideas to get you started:
+### 🚀 Perfil profesional
+- 💼 Enfoque en desarrollo de aplicaciones y automatización de procesos.
+- 🧩 Interés en arquitectura limpia, buenas prácticas y mejora continua.
+- 🤝 Abierto a colaborar en proyectos de código abierto y retos técnicos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías e intereses
+- Desarrollo backend y frontend.
+- APIs, integración de servicios y herramientas de productividad.
+- Calidad de código, pruebas y optimización.
+
+### 📫 Contacto
+Puedes contactarme a través de GitHub para colaboraciones o propuestas profesionales.
